@@ -183,7 +183,7 @@ See Moodle.
     [Erina](https://erlee1.github.io/dig245-usability-test/)
     [Caroline](https://casigl.github.io/dig245-usability-test/)
     [Emma](https://emmelton.github.io/dig245-usability-test/)
-    <!-- [Meng](https://mengfw-02.github.io/dig245-usability-test/) -->
+    [Meng](https://mengfw-02.github.io/dig245-usability-test/)
 - 2020
     [Thatcher](https://thqtcher.github.io/dig245-a4/) 
     <!-- [Jenny](https://yutongzhong.github.io/dig245-a4/) -->
